@@ -64,3 +64,4 @@ Integrantes:
 Rolando Uzcátegui (Portfolio)
 David Betancourt (Navbar)
 Stefano Lucarelli (First-heading)
+Jose Morillo (Contact)
