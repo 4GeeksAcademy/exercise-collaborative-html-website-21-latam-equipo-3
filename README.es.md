@@ -43,6 +43,9 @@ Para cargar y ver tu sitio web live, ejecuta el siguiente comando:
 ```bash
 $ npx http-server --yes -c-1
 ```
+```
+```
+```
 
 ## Implementar el sitio web
 
